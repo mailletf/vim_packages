@@ -19,3 +19,6 @@
 [submodule "bundle/vim-mark"]
 	path = bundle/vim-mark
 	url = git@github.com:Yggdroot/vim-mark.git
+[submodule "bundle/gitignore.git"]
+	path = bundle/gitignore.git
+	url = https://github.com/vim-scripts/gitignore.git
