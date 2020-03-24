@@ -43,3 +43,9 @@
 [submodule "bundle/dart-vim-plugin"]
 	path = bundle/dart-vim-plugin
 	url = https://github.com/dart-lang/dart-vim-plugin
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "bundle/vim-jsx-pretty"]
+	path = bundle/vim-jsx-pretty
+	url = https://github.com/MaxMEllon/vim-jsx-pretty
